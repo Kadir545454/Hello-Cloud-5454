@@ -26,8 +26,8 @@ HTML ="""
   </style>
 </head>
 <body>
-    <h1>istanbul tripten Selam</h1>
-    <p>adını yaz, selamını bırak</p>
+    <h1>ADAPAZA 54</h1>
+    <p>adınızı girin, tıklayınız</p>
 
     <form method="POST">
         <input type="text" name="isim" placeholder="Adını yaz" required>
