@@ -26,7 +26,7 @@ HTML ="""
   </style>
 </head>
 <body>
-    <h1>ADAPAZA 54</h1>
+    <h1>ADAPAZAR 54</h1>
     <p>adınızı girin, tıklayınız</p>
 
     <form method="POST">
