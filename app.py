@@ -26,7 +26,7 @@ HTML ="""
   </style>
 </head>
 <body>
-    <h1>ADAPAZAR 54  Abdülkadir Tektümür</h1>
+    <h1>buluttan selam  Abdülkadir Tektümür</h1>
     <p>adınızı girin, tıklayınız</p>
 
     <form method="POST">
